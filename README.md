@@ -16,3 +16,4 @@ TELEUNI allows you to search a wide range of free online courses available on th
 2. Make a branch from main branch. 
 3. Write code as you wish!✨
 4. Create a pull request from here(https://github.com/lilisako/teleuni/pulls) 
+5. We will review within 2-3 days.
