@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "title": "MIT 8.01SC Classical Mechanics, Fall 2016",
+    "provider": "MIT",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/F3N5EkMX_ks/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD2VxIzhQXAckcOyKt60cLK8BPuJQ",
+    "link": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV"
+  },
+  {
+    "title": "Theoretical Physics - A Concise Course",
+    "provider": "Yale",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/KOKnWaLiL8w/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAry8gwv1KGIXW6Gqlz3CBoQ1jv8Q",
+    "link": "https://www.youtube.com/playlist?list=PLgVx6YV8lTtylx-DI9YYI-get9pNST8Kv"
+  },
+  {
+    "title": "Course | Modern Physics: Quantum Mechanics",
+    "provider": "Stanford",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/JzhlfbWBuQ8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD_JjoNhLmdSjBhREs5nTZTCWviEA",
+    "link": "https://www.youtube.com/playlist?list=PL84C10A9CB1D13841"
+  }
+]

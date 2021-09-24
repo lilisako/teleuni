@@ -32,7 +32,7 @@
     <div class="my-10">
       <h2 class="font-bold text-sm text-gray-700">RECENTLY ADDED</h2>
       <div class="flex flex-wrap">
-        <div class="w-full md:w-1/3" v-for="course in courses.slice(Math.max(courses.size - 3, 1))" :key="course.title">
+        <div class="w-full md:w-1/3" v-for="course in courses.slice(0, 3)" :key="course.title">
           <Video 
             :name="course.title" 
             :provider="course.provider" 

@@ -1,6 +1,6 @@
 export const getCoursesByName = (name) => {
   var course = require('~/static/src/' + name + '.json');
-  return course
+  return course.reverse()
 }
 
 export const getRandomCourses = () => {

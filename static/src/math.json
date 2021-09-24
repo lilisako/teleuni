@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "title": "MIT 18.01 Single Variable Calculus, Fall 2006",
+    "provider": "MIT",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/7K1sB05pE0A/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCEZRE8TD6SGFEV6-IfKCinLjCTZg",
+    "link": "https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1"
+  },
+  {
+    "title": "Oxford Mathematics Student Lectures - All lectures",
+    "provider": "Oxford",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/BP7Ujbyu-NE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDNaNWn4blm9EnhopX0h64njhRdkA",
+    "link": "https://www.youtube.com/playlist?list=PL4d5ZtfQonW0A4VHeiY0gSkX1QEraaacE" 
+  },
+  {
+    "title": "Statistics 110: Probability",
+    "provider": "Harvard",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/KbB0FjPg0mw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAl3pTlGQbhuPOg8K-VToyiKDkQPA",
+    "link": "https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo" 
+  }
+]

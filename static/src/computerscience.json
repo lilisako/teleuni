@@ -1,23 +1,23 @@
 [
   {
-    "title": "MIT 6.042J Mathematics for Computer Science, Fall 2010",
+    "title": "6.0001 Introduction to Computer Science and Programming in Python. Fall 2016",
     "provider": "MIT",
     "category": "Computer Science",
-    "thumbnail": "https://i.ytimg.com/vi/L3LMbpZIKhQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2qC1oEMaJ36Y-PVoektYNNLkL6Q",
-    "link": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY"
+    "thumbnail": "https://i.ytimg.com/vi/nykOeWgQcHM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBXYS88sXajWmgBJ3shrsty_7oUDQ",
+    "link": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA"
   },
   {
-    "title": "MIT 6.042J Mathematics for Computer Science, Fall 2010",
-    "provider": "MIT",
+    "title": "Spring 2015 -- Computer Architecture Lectures -- Carnegie Mellon",
+    "provider": "Carnegie Mellon",
     "category": "Computer Science",
-    "thumbnail": "https://i.ytimg.com/vi/L3LMbpZIKhQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2qC1oEMaJ36Y-PVoektYNNLkL6Q",
-    "link": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY"
+    "thumbnail": "https://i.ytimg.com/vi/zLP_X4wyHbY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCU6xSVUbebhOsGOtkK5dtdiSTh6w",
+    "link": "https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq"
   },
   {
-    "title": "MIT 6.042J Mathematics for Computer Science, Fall 2010",
+    "title": "MIT 6.006 Introduction to Algorithms, Spring 2020",
     "provider": "MIT",
     "category": "Computer Science",
-    "thumbnail": "https://i.ytimg.com/vi/L3LMbpZIKhQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2qC1oEMaJ36Y-PVoektYNNLkL6Q",
+    "thumbnail": "https://i.ytimg.com/vi/ZA-tUyM_y7s/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCRm7AICByXGOdIbh7yRuchqc1NQg",
     "link": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY"
   }
 ]
