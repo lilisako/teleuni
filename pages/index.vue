@@ -21,7 +21,7 @@
           <br>
           <a href="https://github.com/lilisako/teleuni/issues" target=”_blank”>🐞Bug report / Feature request</a>
           <br>
-          <a href="mailto:hamarisa0623@chiba-u.jp" target=”_blank”>⛏Contact owner</a>
+          <a href="https://twitter.com/ice2eat/" target=”_blank”>⛏Contact owner(@ice2eat)</a>
         </div>
       </div>
     </div>
