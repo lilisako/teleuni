@@ -3,31 +3,13 @@
     <!-- Header -->
     <div class="border-b-2 border-black py-5">
       <!-- <img src="~/assets/logo.png" width="150"/> -->
-      <h1 class="font-bold text-4xl">TELEUNI</h1>
-    </div>
-    <!-- Newly added -->
-    <div class="my-10">
-      <h2 class="font-bold text-sm text-gray-700">RECENTLY ADDED TO COMPUTER SCIENCE</h2>
-      <div class="flex flex-wrap">
-        <div class="w-full md:w-1/3" v-for="course in courses" :key="course.title">
-          <Video 
-            :name="course.title" 
-            :provider="course.provider" 
-            :category="course.category" 
-            :thumbnail="course.thumbnail" 
-          />
-        </div>
-      </div>
-    </div>
-    <!-- Category -->
-    <div class="my-16 flex flex-wrap"> 
-      <div class="w-full md:w-1/2" v-for="category in categories" :key="category.title">
-        <Category :name="category.title"/>
-      </div>
+      <NuxtLink to="/">
+        <h1 class="font-bold text-4xl">TELEUNI</h1>
+      </NuxtLink>
     </div>
     <!-- About -->
     <div class="border-t-2 border-black"> 
-      <div class="py-14">
+      <div class="py-7">
         <h2 class="font-bold text-8xl">
           Free Online Courses In One Place
         </h2>
@@ -46,12 +28,39 @@
         </div>
       </div>
     </div>
+    <!-- Newly added -->
+    <div class="my-10">
+      <h2 class="font-bold text-sm text-gray-700">RECENTLY ADDED</h2>
+      <div class="flex flex-wrap">
+        <div class="w-full md:w-1/3" v-for="course in courses.slice(Math.max(courses.size - 3, 1))" :key="course.title">
+          <Video 
+            :name="course.title" 
+            :provider="course.provider" 
+            :category="course.category" 
+            :thumbnail="course.thumbnail" 
+            :link="course.link"
+          />
+        </div>
+      </div>
+    </div>
+    <!-- Category -->
+    <div class="my-16 flex flex-wrap"> 
+      <div class="w-full md:w-1/2" v-for="category in categories" :key="category.title">
+        <Category 
+          :name="category.title" 
+          :id="category.id"
+          :emoji="category.emoji"
+        />
+      </div>
+    </div>
   </div>
 </template>
 
 <script>
 import Video from '../components/Video.vue'
 import Category from '../components/Category.vue'
+import categories from '../static/src/categories.json'
+import { getRandomCourses } from "../helpers/getCourse"
 export default {
   components: {
     Video,
@@ -59,41 +68,12 @@ export default {
   },
   data: function () {
     return {
-      courses: [
-        {
-          title: "MIT 6.042J Mathematics for Computer Science, Fall 2010",
-          provider: "MIT",
-          category: "Computer Science",
-          thumbnail: "https://i.ytimg.com/vi/L3LMbpZIKhQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2qC1oEMaJ36Y-PVoektYNNLkL6Q"
-        },
-        {
-          title: "MIT 6.042J Mathematics for Computer Science, Fall 2010",
-          provider: "MIT",
-          category: "Computer Science",
-          thumbnail: "https://i.ytimg.com/vi/L3LMbpZIKhQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2qC1oEMaJ36Y-PVoektYNNLkL6Q"
-        },
-        {
-          title: "MIT 6.042J Mathematics for Computer Science, Fall 2010",
-          provider: "MIT",
-          category: "Computer Science",
-          thumbnail: "https://i.ytimg.com/vi/L3LMbpZIKhQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2qC1oEMaJ36Y-PVoektYNNLkL6Q"
-        }
-      ],
-      categories: [
-        { 
-          title: "💻 Computer Science"
-        },
-        { 
-          title: "➗ Math"
-        },
-        { 
-          title: "🍎 Physics"
-        },
-        { 
-          title: "🧠 Phychology"
-        },
-      ]
+      courses: getRandomCourses(),
+      categories: categories
     }
+  },
+  methods: {
+    getRandomCourses: getRandomCourses
   }
 }
 </script>
