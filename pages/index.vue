@@ -10,18 +10,18 @@
     <!-- About -->
     <div class="border-t-2 border-black"> 
       <div class="py-7">
-        <h2 class="font-bold text-8xl">
+        <h2 class="font-bold text-5xl md:text-8xl">
           Free Online Courses In One Place
         </h2>
-        <p class="text-gray-400 text-2xl pt-2">
+        <p class="text-gray-400 text-md md:text-2xl pt-2">
           TELEUNI allows you to search a wide range of free online courses available on the Internet. Start learning now from universities all over the world.
         </p>
-        <div class="pt-14">
-          <a href="#" class="font-bold text-3xl">✨Want to contribute?</a>
+        <div class="pt-14 font-bold text-md md:text-3xl">
+          <a href="#">✨Want to contribute?</a>
           <br>
-          <a href="#" class="font-bold text-3xl">🐞Bug report</a>
+          <a href="#">🐞Bug report</a>
           <br>
-          <a href="#" class="font-bold text-3xl">⛏Feature request / Contact owner</a>
+          <a href="#">⛏Feature request / Contact owner</a>
         </div>
         <div class="pt-14">
           <p class="font-bold">Created by Risako</p>
