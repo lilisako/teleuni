@@ -16,16 +16,23 @@
         <p class="text-gray-400 text-md md:text-2xl pt-2">
           TELEUNI allows you to search a wide range of free online courses available on the Internet. Start learning now from universities all over the world.
         </p>
-        <div class="pt-14 font-bold text-md md:text-3xl">
-          <a href="#">✨Want to contribute?</a>
+        <div class="pt-7 font-bold text-md md:text-3xl">
+          <a href="https://github.com/lilisako/teleuni#how-to-contribute" target=”_blank”>✨Want to contribute?</a>
           <br>
-          <a href="#">🐞Bug report</a>
+          <a href="https://github.com/lilisako/teleuni/issues" target=”_blank”>🐞Bug report / Feature request</a>
           <br>
-          <a href="#">⛏Feature request / Contact owner</a>
+          <a href="mailto:hamarisa0623@chiba-u.jp" target=”_blank”>⛏Contact owner</a>
         </div>
-        <div class="pt-14">
-          <p class="font-bold">Created by Risako</p>
-        </div>
+      </div>
+    </div>
+    <!-- Category -->
+    <div class="my-8 flex flex-wrap"> 
+      <div class="w-full md:w-1/2" v-for="category in categories" :key="category.title">
+        <Category 
+          :name="category.title" 
+          :id="category.id"
+          :emoji="category.emoji"
+        />
       </div>
     </div>
     <!-- Newly added -->
@@ -41,16 +48,6 @@
             :link="course.link"
           />
         </div>
-      </div>
-    </div>
-    <!-- Category -->
-    <div class="my-16 flex flex-wrap"> 
-      <div class="w-full md:w-1/2" v-for="category in categories" :key="category.title">
-        <Category 
-          :name="category.title" 
-          :id="category.id"
-          :emoji="category.emoji"
-        />
       </div>
     </div>
   </div>
