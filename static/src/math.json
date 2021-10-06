@@ -19,5 +19,75 @@
     "category": "Math",
     "thumbnail": "https://i.ytimg.com/vi/KbB0FjPg0mw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAl3pTlGQbhuPOg8K-VToyiKDkQPA",
     "link": "https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo" 
+  },
+  {
+    "title": "Course - Calculus I with Professor Richard Delaware",
+    "provider": "UKMC",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/CtRAHmeWSC0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBUnq2jkYyS2TzG7wflCHihGpKllA",
+    "link": "https://www.youtube.com/playlist?list=PLF5E22224459D23D9" 
+  },
+  {
+    "title": "MIT 18.02 Multivariable Calculus, Fall 2007",
+    "provider": "MIT",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/PxCxlsl_YwY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAygUGVsv2DREPQzpruHtPgsIAoug",
+    "link": "https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38" 
+  },
+  {
+    "title": "Gilbert Strang lectures on Linear Algebra",
+    "provider": "MIT",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/ZK3O402wf1c/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB56_UlrdqgFWvxPZ2kKIjSxKRSfA",
+    "link": "https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D" 
+  },
+  {
+    "title": "MIT 18.06 Linear Algebra, Spring 2005",
+    "provider": "MIT",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/7UJ4CFRGd-U/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB0JQtVBc7nrePJd49fgJl-I2VxQA",
+    "link": "https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8" 
+  },
+  {
+    "title": "Linear Algebra",
+    "provider": "Princeton",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/wYo74wh3nXc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDYnIoXBAB4ASmbY8ZB7kVm0QBd6Q",
+    "link": "https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp" 
+  },
+  {
+    "title": "Vision of Linear Algebra, Spring 2020",
+    "provider": "MIT",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/YrHlHbtiSM0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCNzCqv_h7s0kl_z4D3ReHCdBNdvA",
+    "link": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek" 
+  },
+  {
+    "title": "MIT Learn Differential Equations",
+    "provider": "MIT",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/ZvL88xqYSak/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD_gl4F6qi2hre9MZtzXj7P9baWxQ",
+    "link": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG" 
+  },
+  {
+    "title": "RES.18-009 - Differential Equations and Linear Algebra",
+    "provider": "MIT",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/ghjOS7Q82s0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcseGpkj7-gC0IqfIUoK1P4Ln9wQ",
+    "link": "https://www.youtube.com/playlist?list=PLMsYJgjgZE8iBpOBZEsS8PuwNBkwMcjix" 
+  },
+  {
+    "title": "MIT 6.042J Mathematics for Computer Science, Fall 2010",
+    "provider": "MIT",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/L3LMbpZIKhQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA0lwwgv0CbQJLf8ZJSlkftDlkyuA",
+    "link": "https://www.youtube.com/playlist?list=PLB7540DEDD482705B" 
+  },
+  {
+    "title": "Complex Analysis of 2015",
+    "provider": "Liberty University",
+    "category": "Math",
+    "thumbnail": "https://i.ytimg.com/vi/BzzkGZlfVmg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBLRUKfR5q5uXD0F2R747i4lB4d5g",
+    "link": "https://www.youtube.com/playlist?list=PLBY4G2o7DhF0TSossUvJ-CTKSLfOhQgb6" 
   }
 ]

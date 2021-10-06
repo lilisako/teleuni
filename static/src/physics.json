@@ -19,5 +19,75 @@
     "category": "Physics",
     "thumbnail": "https://i.ytimg.com/vi/JzhlfbWBuQ8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD_JjoNhLmdSjBhREs5nTZTCWviEA",
     "link": "https://www.youtube.com/playlist?list=PL84C10A9CB1D13841"
+  },
+  {
+    "title": "8.01x - MIT Physics I: Classical Mechanics",
+    "provider": "MIT",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/9gUdDM6LZGo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLANerf5ghjefCWPUHrEArHSPDUghw",
+    "link": "https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e"
+  },
+  {
+    "title": "Fundamentals of Physics with Ramamurti Shankar",
+    "provider": "Yale",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/abF2zesdlVk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDD4yCsqWUe3BxaV7kGqMXyI64Leg",
+    "link": "https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B"
+  },
+  {
+    "title": "MIT 8.04 Quantum Physics I, Spring 2016",
+    "provider": "MIT",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/jANZxzetPaQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBt6mq7AlS1_yqhiIA1zbUD6UarmQ",
+    "link": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G"
+  },
+  {
+    "title": "Lecture Collection | Classical Mechanics (Fall 2011)",
+    "provider": "Stanford",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/3apIZCpmdls/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDYB9qU19Uxl9hU6OP5FeJ0YCz38w",
+    "link": "https://www.youtube.com/playlist?list=PL47F408D36D4CF129"
+  },
+  {
+    "title": "Quantum Mechanics",
+    "provider": "Oxford",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/AufmV0P6mA0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAEzYdAhXQJEHA57Twiz_Bp1I3m2w",
+    "link": "https://www.youtube.com/playlist?list=PLB3CF07ACB3DBC849"
+  },
+  {
+    "title": "8.02x - MIT Physics II: Electricity and Magnetism",
+    "provider": "MIT",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/rtlJoXxlSFE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD1pmN9r7Dc7u5StEryRTN_rTpQ3Q",
+    "link": "https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j"
+  },
+  {
+    "title": "Fundamentals of Physics II with Ramamurti Shankar",
+    "provider": "Yale",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/NK-BxowMIfg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBshZdJMjVOfbN04sIU9GKoln0yiA",
+    "link": "https://www.youtube.com/playlist?list=PLD07B2225BB40E582"
+  },
+  {
+    "title": "MIT Cosmology",
+    "provider": "MIT",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/ANCN7vr9FVk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUBboWEqfiYgq8V1Dh5okJIjnZng",
+    "link": "https://www.youtube.com/playlist?list=PL4BUyFYOFtUZIUtcSDo6vm4HPxS9aZmHC"
+  },
+  {
+    "title": "Lecture Collection | Cosmology",
+    "provider": "Stanford",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/nJlWYDcGr8U/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDP0Ud12qt7B4-m9U-iOTq_EdUFrQ",
+    "link": "https://www.youtube.com/playlist?list=PLpGHT1n4-mAuVGJ2E1uF9GSwLsx7p1xtm"
+  },
+  {
+    "title": "Astronomy",
+    "provider": "Yale",
+    "category": "Physics",
+    "thumbnail": "https://i.ytimg.com/vi/nzmFc2gjUo4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAuR-vBwh72OEHzIy3Ihw7xHe5Sgw",
+    "link": "https://www.youtube.com/playlist?list=PLA011BE74F1B54629"
   }
 ]

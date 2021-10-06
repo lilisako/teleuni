@@ -19,5 +19,75 @@
     "category": "Computer Science",
     "thumbnail": "https://i.ytimg.com/vi/ZA-tUyM_y7s/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCRm7AICByXGOdIbh7yRuchqc1NQg",
     "link": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY"
+  },
+  {
+    "title": "CS50's Web Programming with Python and JavaScript 2020",
+    "provider": "Harvard",
+    "category": "Computer Science",
+    "thumbnail": "https://i.ytimg.com/vi/Nn7EX3zkGUo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC31a2Xix-o9dz5tYexZ6UR7JUJRg",
+    "link": "https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu" 
+  },
+  {
+    "title": "Object Oriented Programming",
+    "provider": "Harvard",
+    "category": "Computer Science",
+    "thumbnail": "https://i.ytimg.com/vi/0LoKDDRlfZc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDrYwnHK_bzEAGi8GZ_UT-9J8kWVg",
+    "link": "https://www.youtube.com/playlist?list=PL47E7E3E9C3580684" 
+  },
+  {
+    "title": "Computer Networks(CIS 345)",
+    "provider": "FHU",
+    "category": "Computer Science",
+    "thumbnail": "https://i.ytimg.com/vi/5D67Qy1tPLY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBhslKxwataoglgWzk7yPEVy71f_g",
+    "link": "https://www.youtube.com/playlist?list=PLLFIgriuZPAcCkmSTfcq7oaHcVy3rzEtc" 
+  },
+  {
+    "title": "Computer Networks by David Wetherall (University of Washington)",
+    "provider": "University of Washington",
+    "category": "Computer Science",
+    "thumbnail": "https://i.ytimg.com/vi/xKNPTYtTnAo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCyuoGO9fdkUFOTT64kc2fD40TxeA",
+    "link": "https://www.youtube.com/playlist?list=PLVEo1P9gAninM7KwP1KKolfMQdNs6P6Am" 
+  },
+  {
+    "title": "Data Structures",
+    "provider": "San Diego State University.",
+    "category": "Computer Science",
+    "thumbnail": "https://i.ytimg.com/vi/zgCnMvvw6Oo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCVVfxA8kfJdKjJAeOfW6nto3GJ7Q",
+    "link": "https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk" 
+  },
+  {
+    "title": "CS2: Data Structures and Algorithms - Richard Buckland",
+    "provider": "UNSW",
+    "category": "Computer Science",
+    "thumbnail": "https://i.ytimg.com/vi/RpRRUQFbePU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC4hM-7TG3it0BTiJgjJgmC4H1WcQ",
+    "link": "https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1" 
+  },
+  {
+    "title": "Digital Design & Computer Architecture - ETH Zürich (Spring 2020)",
+    "provider": "ETHZ",
+    "category": "Computer Science",
+    "thumbnail": "https://i.ytimg.com/vi/AJBmIaUneB0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDqvnUl8-VEu3Gi7gaGL2kd2nueXg",
+    "link": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2" 
+  },
+  {
+    "title": "Algorithms for Big Data (COMPSCI 229r)",
+    "provider": "Harvard",
+    "category": "Computer Science",
+    "thumbnail": "https://i.ytimg.com/vi/s9xSfIw83tk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDaJcjQHSqe_bxSNX7H8t0CK4myFw",
+    "link": "https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf" 
+  },
+  {
+    "title": "Stanford CS229: Machine Learning | Autumn 2018",
+    "provider": "Stanford",
+    "category": "Computer Science",
+    "thumbnail": "https://i.ytimg.com/vi/jGwO_UgTS7I/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB6AG9xvN29jdeivPbsYiAZuwVxgA",
+    "link": "https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU" 
+  },
+  {
+    "title": "CS 253 Web Security",
+    "provider": "Stanford",
+    "category": "Computer Science",
+    "thumbnail": "https://i.ytimg.com/vi/5JJrJGZ_LjM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAGuQ68XSFS1chQXCv6m5ftmnifSw",
+    "link": "https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-" 
   }
 ]
