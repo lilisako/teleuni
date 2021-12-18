@@ -1,10 +1,10 @@
 <template>
   <div class="m-10">
     <!-- Header -->
-    <div class="border-b-2 border-black py-5">
+    <div class="py-5 border-b-2 border-black">
       <!-- <img src="~/assets/logo.png" width="150"/> -->
       <NuxtLink to="/">
-        <h1 class="font-bold text-4xl">
+        <h1 class="text-4xl font-bold">
           TELEUNI - {{ categories[$route.params.id].title }}
         </h1>
       </NuxtLink>

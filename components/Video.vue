@@ -1,12 +1,12 @@
 <template>
   <a :href="link" target="”_blank”">
-    <div class="w-full py-3 pr-3">
+    <div class="py-3 pr-3 w-full">
       <img :src="thumbnail" class="w-full">
-      <p class="font-bold text-sm">{{ name }}</p>
+      <p class="text-sm font-bold">{{ name }}</p>
       <div class="flex items-center">
         <img src="~/assets/school_black_24dp 1.png" width="20">
-        <p class="font-bold text-sm">{{ provider }}</p>
-        <p class="font-bold text-sm mx-2 bg-gray-800 text-white px-2">{{ category }}</p>
+        <p class="text-sm font-bold">{{ provider }}</p>
+        <p class="px-2 mx-2 text-sm font-bold text-white bg-gray-800">{{ category }}</p>
       </div>
     </div>
   </a>

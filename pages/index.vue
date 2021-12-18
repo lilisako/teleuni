@@ -1,10 +1,10 @@
 <template>
   <div class="m-10">
     <!-- Header -->
-    <div class="border-b-2 border-black py-5">
+    <div class="py-5 border-b-2 border-black">
       <!-- <img src="~/assets/logo.png" width="150"/> -->
       <NuxtLink to="/">
-        <h1 class="font-bold text-4xl">
+        <h1 class="text-4xl font-bold">
           TELEUNI
         </h1>
       </NuxtLink>
@@ -12,13 +12,13 @@
     <!-- About -->
     <div class="border-t-2 border-black">
       <div class="py-7">
-        <h2 class="font-bold text-5xl md:text-8xl">
+        <h2 class="text-5xl md:text-8xl font-bold">
           Free Online Courses In One Place
         </h2>
-        <p class="text-gray-400 text-md md:text-2xl pt-2">
+        <p class="pt-2 md:text-2xl text-gray-400 text-md">
           TELEUNI allows you to search a wide range of free online courses available on the Internet. Start learning now from universities all over the world.
         </p>
-        <div class="pt-7 font-bold text-md md:text-3xl">
+        <div class="pt-7 md:text-3xl font-bold text-md">
           <a href="https://github.com/lilisako/teleuni#how-to-contribute" target="”_blank”">✨Want to contribute?</a>
           <br>
           <a href="https://github.com/lilisako/teleuni/issues" target="”_blank”">🐞Bug report / Feature request</a>
@@ -28,7 +28,7 @@
       </div>
     </div>
     <!-- Category -->
-    <div class="my-8 flex flex-wrap">
+    <div class="flex flex-wrap my-8">
       <div v-for="category in categories" :key="category.title" class="w-full md:w-1/2">
         <Category
           :id="category.id"
@@ -39,7 +39,7 @@
     </div>
     <!-- Newly added -->
     <div class="my-10">
-      <h2 class="font-bold text-sm text-gray-700">
+      <h2 class="text-sm font-bold text-gray-700">
         RECENTLY ADDED
       </h2>
       <div class="flex flex-wrap">

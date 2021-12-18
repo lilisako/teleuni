@@ -6,8 +6,10 @@ module.exports = {
     sourceType: 'module'
   },
   extends: [
-    '@nuxtjs'
+    '@nuxtjs',
+    'plugin:tailwindcss/recommended'
   ],
+  plugins: ['tailwindcss'],
   // カスタムルールを追記
   rules: {
   }
